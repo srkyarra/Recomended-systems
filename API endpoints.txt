@@ -1,0 +1,16 @@
+
+1️⃣ User-Based CF
+http://127.0.0.1:5000/recommend?user_id=A10BOETDPAFJ4C&method=user_based
+
+2️⃣ SVD-Based CF
+http://127.0.0.1:5000/recommend?user_id=A10BOETDPAFJ4C&method=svd
+
+
+3️⃣ Item-Based CF
+http://127.0.0.1:5000/recommend_item?item_id=B001E4KFG0
+
+4️⃣ Content-Based Filtering (CBF)
+http://127.0.0.1:5000/recommend_cbf?product_id=B002QYW8LW
+
+5️⃣ Get Popular Items
+http://127.0.0.1:5000/popular
